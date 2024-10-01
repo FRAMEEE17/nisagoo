@@ -1,0 +1,7 @@
+streamlit
+country_list
+langchain-ibm
+pandas
+sqlalchemy
+transformers
+torch
